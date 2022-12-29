@@ -3,9 +3,9 @@
 <h3 align="center">Développeur à ses heures perdues</h3>
 
 
-- 🌱 I’m currently learning **Web, Python, C, C++, ASM**
+- 🌱 Actuellement en train d'apprendre : **Web, Python, C, C++, ASM**
 
-- 📫 How to reach me **nwoooooo@proton.me**
+- 📫 Comment me contacter : **nwoooooo@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
